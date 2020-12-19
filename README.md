@@ -5,7 +5,7 @@ This Application allows the user to lookup employees by state, or city.
 # screenshots
 
 
-![Image](./images/Employee_dir.png)
+![Image](./images/Employee_Dir.png)
 
 ![Image](./images/employeedir2.png)
 
